@@ -1,2 +1,2 @@
-# Truth-or-Dare
+# ROCK-PAPER-SCISSOR
 A simple game
